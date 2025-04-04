@@ -90,10 +90,20 @@
                 const isUnflaggedBomb = tile.classList.contains('bomb') && 
                                       tile.classList.contains('bomb-unflagged-won');
                 
+                // 5. 判断是否是点到的炸弹：含有bomb类但不含bomb-unflagged-won类
+                const isExplodedBomb = tile.classList.contains('bomb') && 
+                                     !tile.classList.contains('bomb-unflagged-won');
+                
                 if (isUnflaggedBomb) {
-                    // 游戏结束后显示的雷
+                    // 游戏结束后显示的雷（游戏胜利）
                     gameState.tiles[y][x] = 'B';
                     gameState.gameOver = true; // 游戏结束
+                    console.log('游戏胜利！检测到未标记的雷');
+                } else if (isExplodedBomb) {
+                    // 点到的炸弹（游戏失败）
+                    gameState.tiles[y][x] = 'X';
+                    gameState.gameOver = true; // 游戏结束
+                    console.log('游戏失败！踩到地雷了');
                 } else if (tile.classList.contains('tile-flagged')) {
                     // 已标记为地雷
                     gameState.tiles[y][x] = 'F';
