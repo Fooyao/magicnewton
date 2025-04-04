@@ -37,7 +37,7 @@ class SWEEPER:
                 "message": msg,
                 "signature": signed.signature.hex(),
                 "redirect": "false",
-                "recaptchaToken": "03AFcWeA64Wg9_xRc3eq-TSLcGkMB1TpImXeh4ET9k1zzoyYEb2qIgvNvUrTnsc3zm2aHwK34zSpLn-3Fy_Iti5xh_yGXi-NtujZPmlVa-6NpzXq7idYivez630A-HC9ag4Ng_cATHlS3n7RKeuXsraAfDTLOUUJHaPy2klCT9yQ59wYBrUUm452nvnFroekgtoja0aRAayf2PgKspccAlEC5CyX3ETkviARTAk86EAFqWp7L_o3Fk1eNE1coItTgj6Q5Q44jyhZWydQw1SL6ZlQIOdx9dafPca2A6oo52pjVQE1nJhef3OAHE7Zu3pmEILB8TwtF3uAhna00eM4s4mgYP5Gtzyupt4TOeJ0WveDexKwMp78nSqFZy6YzFvKfEEXJHHohyOOkH5mnqO2pc5sQhGDRUkB01u5UwEiG7YMaqYcHl8RuUYDshy93W5CoBE2cm_RTco9O8mYjtZsXBHQYKYMPX2VhiD79bbHr5odariwmvPeNuG5mM1lbUj0ixs6HB2pJj48sZhF2VbtiR12d0bmQIrgS4H50iivxWw35Hwtwplpo0QLeqvwDjLmCl5r07c8ZbK-HF-ihjJ_HjkX7_WhUw-MoCE6-cU1tXDq1Dbzl6aI0Db5jwlMaba9U6xgf8Gl77hKBXjqY3mH9SJ5q6iwG1KJ9ofqYMkNmGUuytkxrI4UaeRCzamvs0xomJrpvSa8hgpKOvSZ5vBRFsC-W0UNe-HLH5a3Er2qhuTeYmA6UQJhFM4lhyqA9vHW0aNBJBHgqjjPcnAgXz-SQPRclL8bjWlxJw0lVYn4WY56jNPiSX7ZORFjlyh-6D-AxEQIboh04uSYPqSkGD-JIZ4gIDlPWTpDS1kLrM0ZdBIGP74tWyxJAuqwjWC1hF-GG-ruhOTB5ihcveN27LOra-eop4SekTVuho4iPIce_KNRHqJqhKWp1B4CaB_Fq9E6r7znfAbqKSTQWLzgDr1G-t2BXxW8zNBUN1asKqbByTu3_MFz6IKE_dKz2bTPZMtK9OfLpeSaVHO0NpKrMXXciKTPx6jSoFEzKTAVCHd9vTaATY70reXMXz-jz1J6m3KEmwpRT-BYXGou-9LtvE_S-25PhD636BhyTOZCX33qQ58eTUAf0bycxXOTs4hNSLbwSmFNJaXgh-92LawejbD2PzHJqBkZRgeWj9ir7vzGET4FReWkIZ5iise8hR5-UbrpMChSU26lp5LWk4PtrPUawGnA8dQXqpWIafprR0_n4OZYmGP_xFbqDD4lUQc5Ztmz_P5BQHSsTmWYAa3z4arhpLNwW87u5iope8ZFniq5INTkxqg5UzPHmX_uqMORyerEpMCijhChxC4pvqGv4caqvkc7-cvPeRmsoZBgKSat-3IOiDn9nCGq4Tri__oyKchnS3DqGsdcbb3A5CvPyuNyguaDGI1uig2GEpFKtqmpeRgDJtvkTLkgZJ46b6JuHDXIfORIDmYHLTn_LY8nhPpe5QMs_7ILbCiG1PE2TALTzKThDb485Wl0Qic6EmvJcZ4z45lysO9msC8z4tlqrXuk-9HLae7sxdXDsw5G7J8drHaaSgB8ILipntOUx6YPuSP_NAHzS5MyXx8oiZ2nT4FsxPGNW5pcBe4_Gcocq1q5xEUydhuvksmINlLGQjLyo955vp7PBWhDR5z9epqPx4CJniJGm8_EJ4Z3LFDvlXA0XctyMVo60ZVL2A-WpvOA9l-o5QMJ2iPUuc6u5zMjHFbDN82HQvIZ8NlV4xVXhOY8-TTz9kb7IZT7MJICrmDVVdDkQrZvsoGbVJajWO7SrFP6pVVyoLhJRElcJfcCyKsv4bQRy27lRseZ5-MucswSFhi5KN4CAmxGFdicEqCAVz82LuhTQDNP1uXxxYUtL0OxpbHhPVLzkLTOogy1C0sPPzGk3-5zpBF44HNbYLbGM9Fd1sk13AfIrFjrEzHd3WDQt4IjTI-Lo7RzdKGogXrNwrNho5CHiZCICcnpFIco-REtUYW6rz1cNUsNuK6V_SsI1YNpDzjD5fqyZ5xy1aG8D6JLweM6PLd57W1WB_vXw6vBzOKJa8FYINJvfDTobPsqo8ZJBAm9IcD-dHBNinMGvsW09EWF2eKL-sH828NriFL2FBPxPxTdoC4KTLJGASsy8_2t8UJoIo5o6lcl-sQOSFWV5CUnTUuZ44CtaMjQAPios2x8tSlNDEOkffunUvAPzYctuSlNVhXFVMCzWwOkCjZyaovPqFBPIM7GAbl-16qFIQk7VlVyDkXSbI2MJsNeNot0NFMZuKQ48K7CU",
+                "recaptchaToken": "需要打码",
                 "refCode": "",
                 "botScore": "1",
                 "csrfToken": self.csrfToken,
@@ -253,4 +253,6 @@ async def main():
     await SWEEPER().start_game()
 
 if __name__ == "__main__":
+    print("号多多|http://hdd.cm|推特低至1毛5")
+    print("只测试了算法，登录对接一下recaptcha打码就行应该，我没搞。")
     asyncio.run(main())
